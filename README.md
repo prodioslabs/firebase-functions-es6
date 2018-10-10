@@ -5,6 +5,7 @@ Boilerplate code for developing firebase functions with es6 support and live rel
 ## Setup
 
 - In the `.firebaserc` file update, change `projects.default` to the firebase project that you would be using.
+- Run `firebase use <project-name>` to use a firebase project.
 
 ## Scripts
 
